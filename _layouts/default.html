@@ -22,8 +22,17 @@
         
         <p class="view">
           {{ site.mywork }}
+
+          {% if site.instagram %}
             </br> <a href="{{ site.instagram }}">Instagram</a>
+          {% endif %}
+          {% if site.behance %}
             </br> <a href="{{ site.behance }}">Behance</a>
+          {% endif %}
+          {% if site.mailto %}
+            </br> <a href="{{ site.mailto }}">Mail</a>
+          {% endif %}
+
         </p>
 
       </header>

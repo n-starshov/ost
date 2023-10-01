@@ -1,1 +1,1 @@
-Вы можете услышать нас тут: 
+You can hear us these projects:

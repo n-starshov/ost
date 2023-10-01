@@ -1,1 +1,1 @@
-You can hear us these projects:
+You can hear us in these projects:
